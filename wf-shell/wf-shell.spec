@@ -38,6 +38,7 @@ BuildRequires:  pkgconfig(pam)
 BuildRequires:  pkgconfig(epoxy)
 BuildRequires:  pkgconfig(ddcutil)
 BuildRequires:  pkgconfig(openssl)
+BuildRequires:  pkgconfig(yyjson)
 
 Recommends:     wayland-logout
 
