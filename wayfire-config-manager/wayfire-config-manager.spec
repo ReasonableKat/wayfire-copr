@@ -23,6 +23,8 @@ BuildRequires:  pkgconfig(wf-config) >= 0.11.0
 BuildRequires:  pkgconfig(wf-shell) >= 0.11.0
 BuildRequires:  pkgconfig(fmt)
 
+Recommends:     wdisplays
+
 Requires:       hicolor-icon-theme
 
 %description
